@@ -1,0 +1,12 @@
+h1{
+    background-color: blue;
+    text-shadow: 0 0 10px red;
+    padding: 60px;
+}
+img
+{
+  padding: 20px;
+  width:700px;
+  border: 20px solid brown;
+}
+
